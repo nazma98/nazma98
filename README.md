@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nazma 🦜</h1>
+<h1 align="center">Hi, I'm Nazma 🌟</h1>
 <p align="center">
   🚀 Golang Enthusiast | 💻 Backend Developer | ⚙️ DevOps Learner
 </p>
